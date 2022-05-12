@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test13 SettersGetters</string>
+    <string name="Х">Координата Х</string>
+    <string name="Y">Координата Y</string>
+    <string name="Set">Set</string>
+    <string name="Get">Get</string>
+    <string name="Read">Считанные значения</string>
+    <string name="NoRead">Null</string>
+</resources>
